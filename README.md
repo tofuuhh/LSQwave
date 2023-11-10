@@ -1,4 +1,4 @@
 # LSQwave
 
 Supplement to paper: 
-by T.Fuehrer, R. Gonzalez, M. Karkulik
+by T.Fuehrer, R. Gonz&aacute;lez, M. Karkulik
